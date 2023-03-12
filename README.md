@@ -29,3 +29,18 @@ https://sre.google/workbook/non-abstract-design/
 ## Designing Data intensive applications
 
 https://github.com/jeffrey-xiao/papers/blob/master/textbooks/designing-data-intensive-applications.pdf
+
+
+-------------
+
+# Youtube
+
+1. https://www.youtube.com/watch?v=kx-XDoPjoHw
+2. Gaurav Sen for fundamentals
+
+--------------
+
+# MapReduce examples
+
+1. https://stackoverflow.com/questions/12375761/good-mapreduce-examples
+1. https://courses.cs.washington.edu/courses/cse490h/08au/lectures/MapReduceDesignPatterns-UW2.pdf
