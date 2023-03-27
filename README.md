@@ -26,7 +26,7 @@ https://sre.google/workbook/non-abstract-design/
 
 # Kafka Distributed Design
 
-## https://www.youtube.com/watch?v=Ea3aoACnbEk
+https://www.youtube.com/watch?v=Ea3aoACnbEk
 
 
 ------------
