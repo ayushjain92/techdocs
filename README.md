@@ -50,3 +50,20 @@ https://github.com/jeffrey-xiao/papers/blob/master/textbooks/designing-data-inte
 
 1. https://stackoverflow.com/questions/12375761/good-mapreduce-examples
 1. https://courses.cs.washington.edu/courses/cse490h/08au/lectures/MapReduceDesignPatterns-UW2.pdf
+
+
+--------------
+
+
+# Sorting
+
+1. [Bucket Sort](https://www.geeksforgeeks.org/bucket-sort-2/)
+1. [Selection Sort](https://www.geeksforgeeks.org/selection-sort/)
+1. [Bubble Sort](https://www.geeksforgeeks.org/bubble-sort/)
+1. [Insertion Sort](https://www.geeksforgeeks.org/insertion-sort/)
+1. [Merge Sort](https://www.geeksforgeeks.org/merge-sort/)
+1. [Heap Sort](https://www.geeksforgeeks.org/heap-sort/)
+1. [QuickSort](https://www.geeksforgeeks.org/quick-sort/)
+1. [Radix Sort](https://www.geeksforgeeks.org/radix-sort/)
+1. [Counting Sort](https://www.geeksforgeeks.org/counting-sort/)
+1. [ShellSort](https://www.geeksforgeeks.org/shellsort/)
