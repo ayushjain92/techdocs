@@ -47,6 +47,7 @@ https://github.com/jeffrey-xiao/papers/blob/master/textbooks/designing-data-inte
 1. [Basic Fundamentals: Gaurav Sen](https://www.youtube.com/@gkcs)
 1. [Advanced: System Design Guy](https://www.youtube.com/@SystemDesignInterview)
 1. [Advanced: QuanticDev](https://www.youtube.com/@QuanticDev)
+2. https://www.youtube.com/watch?v=q0KGYwNbf-0
 
 --------------
 
