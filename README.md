@@ -24,6 +24,11 @@ https://sre.google/workbook/non-abstract-design/
 
 ----------
 
+# Kafka Distributed Design
+
+## https://www.youtube.com/watch?v=Ea3aoACnbEk
+
+
 # Books
 
 ## Designing Data intensive applications
@@ -35,8 +40,9 @@ https://github.com/jeffrey-xiao/papers/blob/master/textbooks/designing-data-inte
 
 # Youtube
 
-1. https://www.youtube.com/watch?v=kx-XDoPjoHw
-2. Gaurav Sen for fundamentals
+1. [Basic Fundamentals: Gaurav Sen](https://www.youtube.com/@gkcs)
+1. [Advanced: System Design Guy](https://www.youtube.com/@SystemDesignInterview)
+1. [Advanced: QuanticDev](https://www.youtube.com/@QuanticDev)
 
 --------------
 
